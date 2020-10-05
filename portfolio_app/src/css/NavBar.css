@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    align-items:center;
+    height: 150px;
+    border:  solid black;
+}
+
+.inactive{
+    color: black;
+    flex-grow: 0.05
+}
+
+.active{
+    color: springgreen
+}
+
+.BavBTN{
+    border:  solid black;
+}
